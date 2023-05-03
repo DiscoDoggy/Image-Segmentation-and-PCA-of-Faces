@@ -19,13 +19,13 @@ Scatterplot with four colors (K = 4): <br>
 ![image](https://user-images.githubusercontent.com/110149934/236061691-38169d50-cf3d-4605-90b8-0096186766a5.png)
 <br>
 Image with eight colors (K = 8):<br>
-![image](https://user-images.githubusercontent.com/110149934/236061794-7bc6a511-658d-4558-b09f-21bc9074860b.png)
+![image](https://user-images.githubusercontent.com/110149934/236064443-9892cfb2-b0b2-480c-93b5-783e5836bf11.png)
 <br>
 Scatterplot with eight colors (K = 8):<br>
 ![image](https://user-images.githubusercontent.com/110149934/236061889-0ae9dab1-240b-4752-808e-235eb1035ab7.png)
 <br>
 Image with 16 colors(K = 16):<br>
-![image](https://user-images.githubusercontent.com/110149934/236062131-224c1d9f-8a93-4f58-9398-ac9f75d9b741.png)
+![image](https://user-images.githubusercontent.com/110149934/236064659-ac8c79fd-556b-4f14-abba-180beb09e7ae.png)
 <br>
 Scatterplot with 16 colors (K = 16):<br>
 ![image](https://user-images.githubusercontent.com/110149934/236062224-93e69c9c-fbd2-416f-beca-43a1e68eeaf8.png)
@@ -37,6 +37,9 @@ Scatterplot with 32 colors (K = 32):<br>
 ![image](https://user-images.githubusercontent.com/110149934/236062398-b6fd94b6-1707-4005-bcfe-048835be7609.png)
 <br>
 Image with 64 colors (K = 64):<br>
-![image](https://user-images.githubusercontent.com/110149934/236062500-c47e64c4-a65b-4f2a-9b06-84449ac11ea4.png)
+![image](https://user-images.githubusercontent.com/110149934/236064886-28624b12-a7d2-47c1-9ea3-fb9275ebdd28.png)
+<br>
+Scatterplot with 64 colors (K = 64): <br>
+![image](https://user-images.githubusercontent.com/110149934/236065078-711e5e1c-780b-487c-86ef-cee7b1a5d42e.png)
 
 <br>
